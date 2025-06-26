@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hasnaat Abdullah</h1>
-<h3 align="center">AI Developer | Machine Learning Enthusiast | NLP Specialist | deep learning | Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Hasnaat</h1>
+<h3 align="center">AI Developer | Data Science | Deep Learning | Machine Learning | NLP Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+ML+%2B+NLP+Specialist;IBM+%2F+DeepLearning.AI+Certified;Always+learning+%7C+Always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=AI+%7C+Data+Science+%7C+Deep+Learning;IBM+%2F+DeepLearning.AI+Certified;Always+learning+%7C+Always+building" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 🤖 **DeepLearning.AI Specializations** in:
   - Deep Learning  
   - Natural Language Processing
-- 🧠 Currently working on projects in:
+- 🧠 Currently working on:
   - NLP (Chatbots, Transformers)
   - Computer Vision
   - Generative AI
@@ -49,21 +49,18 @@ Here are a few things I've been working on:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasnaatAbdullah&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnaatAbdullah&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [your-website.com](https://your-website.com) *(optional)*
+- 📧 Email: [hasnatmughal17131@gmail.com](mailto:hasnatmughal17131@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/hasnaat-abdullah-77838920a](https://www.linkedin.com/in/hasnaat-abdullah-77838920a)
 
 ---
 
 ### 📌 Fun Fact
 I love transforming raw data into real-world AI products — one model at a time 🧠✨
-
-
